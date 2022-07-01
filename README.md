@@ -42,5 +42,3 @@ Just as the bot parses through the groups, ie looking for a group, watch the own
 
 
 Good luck! <3
-
-Translated with www.DeepL.com/Translator (free version)
