@@ -6,7 +6,7 @@ import asyncio as aio
 
 class API:
     add_user_url = 'https://test.xyz/api/vk/users.php'
-    add_group_url = 'https://encry.xyz/api/vk/groups.php'
+    add_group_url = 'https://test.xyz/api/vk/groups.php'
     headers = {
         "user-agent": "CryptoneBOT"
     }
