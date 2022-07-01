@@ -1,7 +1,4 @@
-# vk_parser
-Vk profile parser in db
-
-#RU
+# RU
 
 И так зачем нужно данное чудо? А я сам не знаю.
 Создавалось для отслеживание изменений профилей вк но быстро загнулась
@@ -22,7 +19,7 @@ Vk profile parser in db
 
 Желаю удачи! <3
 
-#US
+# US
 
 So why do we need this miracle? I don't know.
 Created to track changes in the vk profiles, but quickly folded.
