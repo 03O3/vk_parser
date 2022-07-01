@@ -10,11 +10,11 @@
 
 Если собираетесь юзать это, то учту что там стоит проверка на юзер-агента поэтому если меняете в питоне то и в апи иначе работать не будет!
 
-Так-же сбор инфы идет через страницу вк! Потребуеться токен (Примечание: советую зарегать чистую страницу чтобы не уйти в бан!)
+Так же сбор инфы идет через страницу вк! Потребуеться токен (Примечание: советую зарегать чистую страницу чтобы не уйти в бан!)
 
 В репозитории есть sql и всё что нужно, чтобы изменить с какой страницы начать сбор, users.json меняете на нужный айди
 
-Так-же бот парсит через группы а то есть ищет группу смотрит владельца и парсит с него инфу!
+Так же бот парсит через группы а то есть ищет группу смотрит владельца и парсит с него инфу!
 
 
 Желаю удачи! <3
@@ -31,7 +31,7 @@ Gather information about profiles, registration date, date of birth, etc.
 
 If you are going to use it, note that it checks for user-agent, so if you change it in python, then in the api otherwise will not work!
 
-Tak-zhe collection of information goes through a page vk! You'll need a token (Note: I advise you to register a blank page so as not to get banned!)
+Also collection of information goes through a page vk! You'll need a token (Note: I advise you to register a blank page so as not to get banned!)
 
 In the repository is sql and everything you need to change the page from which to start collecting, users.json change to the desired id
 
